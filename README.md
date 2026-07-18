@@ -15,6 +15,12 @@ This project is created to learn AI-assisted frontend development and Git best p
 - Git
 - Cursor AI
 
+## Project Structure
+Folder tree.
+
+## Development Workflow
+Conventional Commits, AI-assisted workflow notes.
+
 ## Goals
 
 - Learn AI-assisted development
